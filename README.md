@@ -1,4 +1,4 @@
-### Hi there 👋
+![Untitled](https://user-images.githubusercontent.com/112773945/224471898-2f9a3b87-305f-41b0-b5e6-3275717ec0f4.png)
 
 <!--
 **NowWeAre-Free/NowWeAre-Free** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
