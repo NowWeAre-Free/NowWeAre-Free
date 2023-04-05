@@ -1,4 +1,5 @@
-Hey, Im Marcin!
+Hey, I'm Marcin and this is my joruney to become a Junior Developer 👨‍💻!
+Join to me - let's learn together!
 
 ![Untitled](https://user-images.githubusercontent.com/112773945/224471898-2f9a3b87-305f-41b0-b5e6-3275717ec0f4.png)
 
