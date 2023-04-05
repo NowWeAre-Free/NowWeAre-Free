@@ -1,6 +1,8 @@
-#Hey, I'm Marcin and this is my joruney to become a Junior Developer 👨‍💻
-#Join to me - let's learn together!
-#Check out my socials for tips, tricks and things I wish I knew at the beginning.
+Hey, I'm Marcin and this is my joruney to become a Junior Developer 👨‍💻     
+Join to me - let's learn together! 🎯       
+Check out my socials for tips, tricks and things I wish I knew at the beginning. 
+
+
 
 ![Untitled](https://user-images.githubusercontent.com/112773945/224471898-2f9a3b87-305f-41b0-b5e6-3275717ec0f4.png)
 
