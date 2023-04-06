@@ -1,6 +1,6 @@
 Hey, I'm Marcin and this is my joruney to become a Junior Frontend Developer 👨‍💻     
 Join to me - let's learn together! 🎯       
-Check out my socials for tips, tricks and things I wish I knew at the beginning. 
+Check out my socials for tips, quizzes, tricks and things I wish I knew at the beginning. 
 
 
 
