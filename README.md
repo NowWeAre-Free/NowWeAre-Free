@@ -1,6 +1,6 @@
 Hey, I'm Marcin and this is my journey to become a Junior Frontend Developer 👨‍💻     
 Join to me - let's learn together! 🎯       
-Check out my socials for tips, quizzes, tricks and things I wish I knew at the beginning. 
+Check out my socials!
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
