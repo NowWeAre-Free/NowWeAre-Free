@@ -20,7 +20,7 @@ Check out my socials!
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
 </p>
 
-![Untitled](https://user-images.githubusercontent.com/112773945/224471898-2f9a3b87-305f-41b0-b5e6-3275717ec0f4.png)
+![224471898-2f9a3b87-305f-41b0-b5e6-3275717ec0f4](https://github.com/RoadToJunior/RoadToJunior/assets/112773945/97640861-0695-4c51-a3d7-11b806e38989)
 
 <!--
 **NowWeAre-Free/NowWeAre-Free** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
